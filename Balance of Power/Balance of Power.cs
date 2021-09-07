@@ -1,4 +1,10 @@
-﻿using cAlgo.API;
+﻿// -------------------------------------------------------------------------------------------------
+//
+//    This is the Balance Of Power custom indicator for cTrader based on Automate API.
+//
+// -------------------------------------------------------------------------------------------------
+
+using cAlgo.API;
 using cAlgo.API.Indicators;
 
 namespace cAlgo
